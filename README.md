@@ -32,7 +32,7 @@ This project uses real-world-style health and lifestyle data to train regression
 **Target Variable:** `age_at_death`
 
 
-## 🧠 Models Used
+##  Models Used
 
 | Model                  | Library    | Purpose              |
 |------------------------|------------|----------------------|
@@ -42,7 +42,7 @@ This project uses real-world-style health and lifestyle data to train regression
 **Evaluation Metrics:** R² Score, Mean Absolute Error (MAE)
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - Pandas, NumPy
