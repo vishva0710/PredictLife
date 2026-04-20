@@ -44,7 +44,7 @@ This project uses real-world-style health and lifestyle data to train regression
 
 ##  Tech Stack
 
-- Python 3.x
+- Python 
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
